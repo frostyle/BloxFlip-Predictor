@@ -1,3 +1,7 @@
+## Features
++ Crash
++ Mines
+
 ## Installation
 + run this command in your console
 ```bash
